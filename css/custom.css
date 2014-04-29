@@ -1,0 +1,67 @@
+/*
+	#intro { 
+		background: url(images/bookshelf.jpg) 50% 0 fixed; 
+		height: auto;  
+		margin: 0 auto; 
+	    width: 100%; 
+	    position: relative; 
+	    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	    padding: 100px 0;
+	}
+	#home { 
+		background: url(images/walden.jpg) 50% 0 fixed; 
+		height: auto;  
+		margin: 0 auto; 
+	    width: 100%; 
+	    position: relative; 
+	    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	    padding: 200px 0;
+	}
+	#about { 
+		background: url(images/about.png) 50% 0 fixed; 
+		height: auto;
+		margin: 0 auto; 
+	    width: 100%; 
+	    position: relative; 
+	    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	    padding: 100px 0;
+	    color: #fff;
+	}
+*/
+
+
+	/* image on home page */
+	.home-img {
+		margin: 50px 0;
+		box-shadow: 0 0 20px rgba(0,0,0,0.3);
+		position: relative; 
+	
+	}
+
+	h2.banner { 
+		font-family: "Esteban" "Georgia" "Arial";
+		background: #006561;
+		box-shadow: 0 0 20px rgba(0,0,0,0.5);
+		letter-spacing: 8px;
+		padding: 40px;
+		font-size: 30px;
+		color: #FFF;
+	}
+
+
+	h2.hero {
+		font-family: "Esteban" "Georgia" "Arial";
+		color:#006561;
+		letter-spacing: 2px;
+	}
+	
+
+
+
+	/* Non-essential demo stuff */
+	.hero-unit {
+		background-color: #fff;
+	    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+	}
+	.media-object { width: 64px; height: 64px; padding-bottom: 30px }
+
